@@ -1,3 +1,3 @@
-# Hi there,
+# Hi there 👋,
 
-## Welcome to my github profile
+![repository cover image](./images/repocover.png)
