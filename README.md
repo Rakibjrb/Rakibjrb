@@ -1,3 +1,3 @@
 # Hi there 👋,
 
-![repository cover image](./images/repocover.png)
+<img src="./images/repocover.png" alt="my repository cover photo" width="100%" height="100%" />
