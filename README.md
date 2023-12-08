@@ -19,7 +19,7 @@
 <p align="center">
 <img src="./images/icons/HTML.png"/>
 <img src="./images/icons/css.png"/>
-<img width="45" style="margin-left:15px" src="./images/icons/JavaScript.png"/>
+<img src="./images/icons/JavaScript.png"/>
 </p>
 
 <p align="center">
