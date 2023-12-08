@@ -1,5 +1,3 @@
-# Hi there 👋,
-
 <img style="border-radius:5px" src="./images/repocover.png" alt="my repository cover photo" width="100%" height="100%" />
 
 ### 📈 CURRENT STATS
