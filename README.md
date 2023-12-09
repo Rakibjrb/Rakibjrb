@@ -10,7 +10,7 @@
 
 <br>
 
-### 💻 TECHNOLOGIES THAT I KNOW
+### 🚀 TECHNOLOGIES THAT I KNOW
 
 <br>
 
@@ -30,4 +30,19 @@
 <p align="center">
 <img src="./images/icons/tailwind.png"/>
 <img src="./images/icons/firebase.png"/>
+</p>
+
+<br>
+
+### 👁️ REACH ME OUT
+
+<br>
+
+<p align="center">
+<a href="mailto:rakibul572157@gmail.com">
+<img src="./images/icons/GMAIL.png" alt="gmail logo" />
+</a>
+<a href="https://www.facebook.com/rakibulhasan572157">
+<img src="./images/icons/FACBOOK.png" alt="facebook logo" />
+</a>
 </p>
