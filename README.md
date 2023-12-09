@@ -1,5 +1,7 @@
 <img style="border-radius:5px" src="./images/repocover.png" alt="my repository cover photo" width="100%" height="100%" />
 
+<br />
+
 ### 📈 CURRENT STATS
 
 <br />
@@ -45,4 +47,17 @@
 <a href="https://www.facebook.com/rakibulhasan572157">
 <img src="./images/icons/FACBOOK.png" alt="facebook logo" />
 </a>
+</p>
+
+<br>
+
+### 👀 OVERVIEW
+
+<br>
+
+<p align="center">
+I am a MERN stack web developer
+</p>
+<p align="center">
+My skills are html, css, javascript, react, node, express, mongodb, firebase, jwt, mongoose and tailwindcss
 </p>
