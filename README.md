@@ -41,11 +41,14 @@
 <br>
 
 <p align="center">
-<a href="mailto:rakibul572157@gmail.com">
-<img src="./images/icons/GMAIL.png" alt="gmail logo" />
+<a href="https://www.linkedin.com/in/rakibul-hasan19">
+<img src="./images/icons/LINKEDIN.png" alt="linkedin logo" />
 </a>
 <a href="https://www.facebook.com/rakibulhasan572157">
 <img src="./images/icons/FACBOOK.png" alt="facebook logo" />
+</a>
+<a href="mailto:rakibul572157@gmail.com">
+<img src="./images/icons/GMAIL.png" alt="gmail logo" />
 </a>
 </p>
 
@@ -55,9 +58,8 @@
 
 <br>
 
-<p align="center">
-I am a MERN stack web developer
-</p>
-<p align="center">
-My skills are html, css, javascript, react, node, express, mongodb, firebase, jwt, mongoose and tailwindcss
+## Hello, I am Rakibul Hasan
+
+<p>
+A passionate Front End and MERN stack web developer with a keen eye for design and crafting seamless user experiences. My journey in the world of web development has been an exciting adventure, marked by continuous learning and a commitment to delivering high-quality solutions.
 </p>
