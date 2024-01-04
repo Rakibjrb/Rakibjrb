@@ -41,7 +41,7 @@
 <br>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/rakibul-hasan19">
+<a href="https://www.linkedin.com/in/rakibul-hasan-19">
 <img src="./images/icons/LINKEDIN.png" alt="linkedin logo" />
 </a>
 <a href="https://www.facebook.com/rakibulhasan572157">
