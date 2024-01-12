@@ -7,7 +7,7 @@
 <br />
 
 <p align="center">
-  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=Rakibjrb&theme=neon&card_width=695&background=45%2CEB5454%2C0013A6AE" />
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com?user=Rakibjrb&theme=neon&card_width=695&background=45%2CEB5454%2C0013A6AE" />
 </p>
 
 <br>
